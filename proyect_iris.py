@@ -4,7 +4,11 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+from matplotlib.colors import ListedColormap
+import matplotlib.patches as mpatches
 import seaborn as sns
+
+
 
 
 #Function case to select a variable from the dataset
